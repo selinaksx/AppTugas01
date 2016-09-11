@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     CheckBox cbB, cbM, cbC, cbP;
     Spinner spGr, spTk;
     int nKelas;
-    int jumlah;
 
     String[][] arKelas = {{"VII", "VIII", "IX"}, {"X", "XI", "XII"}};
     ArrayList<String> listKelas = new ArrayList<>();
